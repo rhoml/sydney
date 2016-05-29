@@ -14,14 +14,32 @@ If you arrive to Sydney's Intl airport there are many ways to get to the city.
 
 #### Meetups
 
-##### Breweries/Brewpubs
+* [Puppet Meetup]()
+* [Docker Meetup]()
+* [Elasticsearch Meetup]()
+
+#### Breweries/Brewpubs
 
 * [4 Pines Manly](http://4pinesbeer.com.au/) They have a great selection of handcrafted beers, Kolsch, Hefeweizen, Pale Ale, Stout...
-* [Belgian Beer Cafe Heritage](http://www.bbcheritage.com.au/) They have Leffe, Hoegaarden, Duvel among [others](http://www.bbcheritage.com.au/downloads/BBC_BeersMenu_May2015_LR.pdf)
+* [Belgian Beer Cafe Heritage](http://www.bbcheritage.com.au/) They have Leffe, Hoegaarden, Duvel among [others](http://www.bbcheritage.com.au/downloads/BBC_BeersMenu_May2015_LR.pdf). They also have mussel day on Wednesday at 20AUD$ and they are expectacular.
+* [The Grifter Brewing Company](https://www.facebook.com/TheGrifterBrewingCompany) Amazing brewery with IPAs, Pale Ale's, and Watermelon Beer. Great environment and friendly staff
+* [King street Brewhouse](http://kingstbrewhouse.com.au/) In the heart of Darling harbour with tons of beers to try
 
-##### Beer/Cider Bars
+#### Beer/Cider Bars
 
-#### Neighborhoods:
+#### Brunch
+
+* [Lumiere](http://www.lumierecafe.com.au/menu) Great place for brunch and great coffee and friendly staff
+* [Two good eggs](http://www.twogoodeggs.com.au/) Staff is not so friendly by the food is awesome, their buttermilk pancakes are awesome
+* [Social brew](https://www.facebook.com/socialbrewcafe) In the heart of Pyrmont really close to the fish market the staff is supper friendly and their food is amazing. The Eggs benedict are absolutely great.
+
+#### Neighborhoods
+
+* Newtown
+* Surry Hills
+* Chippendale
+* Bondi
+* Manly
 
 #### Food
 
